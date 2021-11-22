@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Diploma in Information Technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by mail :- namanacharya2455@yahoo.com
+- 📫 How to reach me by mail :- namanacharya245@gmail.com
 
 <!---
 NamanAcharya-Dev/NamanAcharya-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
