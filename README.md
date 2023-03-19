@@ -1,3 +1,4 @@
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
 <h1 align="center">Hi 👋, I'm Naman Acharya</h1>
 <h3 align="center">A passionate Full Stack WAMP Developer from India</h3>
 
