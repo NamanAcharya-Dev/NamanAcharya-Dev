@@ -1,15 +1,13 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 <h1 align="center">Hi 👋, I'm Naman Acharya</h1>
-<h3 align="center">A passionate Full Stack WAMP Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer (WAMP) from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanacharya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="namanacharya-dev" /> </p>
 
-- 🌱 I’m currently learning **Desktop and Mobile App Development and Improving Skills of Web Development**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **namanacharya245@gmail.com**
-
-- ⚡ Fun fact **I love watching movies, playing games, and Travelling. Obviously Love Making New Things by doing Coding**
+- 👩‍💻 Student at **Government Polytechnic, Pune, India**
+- 🛠  Proficient with **Web Development frameworks**
+- 🌱 Currently learning more about **Desktop Development** and **App Development** Along With **Improving Skills of Web Technologies**
+- 👯 Looking to collaborate on **Real World projects**
+- 📫 Shoot me a mail at **namanacharya245@gmail.com**
 
 --- 
 
