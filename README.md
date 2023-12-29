@@ -3,11 +3,10 @@
 <h3 align="center">A passionate Full Stack Web Developer (WAMP) from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanacharya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="namanacharya-dev" /> </p>
 
-- 👩‍💻 Student at **Government Polytechnic, Pune, India**
 - 🛠  Proficient with **Web Development frameworks**
 - 🌱 Currently learning more about **Desktop Development** and **App Development** Along With **Improving Skills of Web Technologies**
 - 👯 Looking to collaborate on **Real World projects**
-- 📫 Shoot me a mail at **namanacharya245@gmail.com**
+- 📫 Shoot me a mail at **work.naman24@gmail.com**
 
 --- 
 
@@ -15,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/namanacharya24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namanacharya24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naman-acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-acharya" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_programer_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_programer_24" height="30" width="40" /></a>
+<a href="https://instagram.com/namanacharya.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namanacharya.dev" height="30" width="40" /></a>
 </p>
 
 --- 
